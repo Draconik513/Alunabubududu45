@@ -87,7 +87,7 @@ makasiiiiii udah bikin hidup aku lebih happy, with everything about aku beruntun
                   Syahroni Reyhan Aldyck 💖
                 </div>
                 <div className="text-white text-lg text-center mt-4">
-                  My Heart Belongs to you, Honey🥹
+                  Hatiku hanya untukmu, sayang🥹
                 </div>
               </motion.div>
             </motion.div>
