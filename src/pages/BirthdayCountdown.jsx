@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useNavigate } from "react-router-dom";
-import VidioCount from "../assets/videos/birthday-wish.mp4";
+import FotoCount from "../assets/images/foto-birthday.jpg";
 
 const BirthdayCountdown = ({ isIOS }) => {
   const [timeLeft, setTimeLeft] = useState({
@@ -67,19 +67,13 @@ const BirthdayCountdown = ({ isIOS }) => {
         </h1>
 
         <div className="mb-8">
-          <video
-            autoPlay
-            loop
-            muted
-            playsInline
-            webkit-playsinline="true"
-            x-webkit-airplay="allow"
-            className="w-full max-w-md mx-auto rounded-lg shadow-xl"
-            style={{ transform: "translateZ(0)" }}
-          >
-            <source src={VidioCount} type="video/mp4" />
-          </video>
-        </div>
+  <img
+    src={FotoCount}
+    alt="Birthday"
+    className="w-full max-w-md mx-auto rounded-lg shadow-xl object-cover"
+    style={{ transform: "translateZ(0)" }}
+  />
+</div>
 
         <div className="mb-12">
           <h2 className="text-2xl text-pink-600 mb-4">Menuju Hari Spesialmu</h2>
