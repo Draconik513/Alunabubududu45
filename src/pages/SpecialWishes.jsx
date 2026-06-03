@@ -12,13 +12,13 @@ Hari ini adalah momen yang paling indah karena hari ini kamu lahir ke dunia. Aku
 
 Aku tahu hidup tidak selalu mudah, tapi aku ingin kamu tahu bahwa kamu tidak sendiri. Aku akan selalu mendukungmu, menyemangati kamu, dan menjadi pundakmu saat kamu lelah.
 
-Semoga setiap langkahmu penuh keberkahan, dan setiap impianmu satu per satu menjadi kenyataan. Kamu punya hati yang tulus, senyum yang menenangkan, dan jiwa yang cantik luar dalam. Dunia butuh lebih banyak orang sepertimu.
+Semoga setiap langkahmu penuh keberkahan, dan setiap impianmu satu per satu menjadi kenyataan. Kamu punya hati yang baik, ramah ke semua orang, slalu rendah hati ke sesama, dan jiwa tulus luar dalam. Dunia butuh lebih banyak orang sepertimu.
 
 Aku ingin kamu tahu bahwa aku percaya padamu sepenuhnya. Kamu kuat, kamu hebat, dan kamu pantas mendapatkan yang terbaik. Jangan pernah ragukan dirimu sendiri, karena kamu adalah cahaya dalam hidup banyak orang, termasuk hidupku.
 
 Jika suatu hari kamu merasa ragu atau takut, ingatlah doaku ini: semoga kamu selalu dikelilingi orang-orang baik, rezeki yang cukup, dan cinta yang tulus dari semua arah. Termasuk dariku.
 
-Aku cinta kamu, dan akan selalu mencintaimu.
+Bubu cinta dudu, sayang dudu dan selalu mencintai dudu.. Muaaaaachhhh ❤️😘
 `
   return (
     <div className="min-h-screen bg-gradient-to-b from-pink-100 to-purple-100 p-4 flex flex-col items-center justify-center">
@@ -90,7 +90,7 @@ Aku cinta kamu, dan akan selalu mencintaimu.
                   Akbar💖
                 </div>
                 <div className="text-white text-lg text-center mt-4">
-                  My heart is only for you, Honey🥹
+                 Haatii bubu hanya untuk dudu seorang 🥹
                 </div>
               </motion.div>
             </motion.div>

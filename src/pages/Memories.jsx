@@ -178,8 +178,7 @@ Amiinnn_✨
             transition={{ delay: 2.2 }}
             className="text-center text-pink-600 mt-6 italic text-lg"
           >
-            🌸 Bunga ini sebagai hadiah dari permintaan maafku, sayang... Tolong
-            diterima ya 🥺❤️
+            🌸 Bunga ini sebagai hadiah dari permintaan maaf bubu, Sayang dudu... Tolong di terima yaa 😘😘
           </motion.p>
         )}
       </motion.div>

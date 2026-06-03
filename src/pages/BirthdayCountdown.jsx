@@ -14,7 +14,7 @@ const BirthdayCountdown = ({ isIOS }) => {
   const [replyMessage, setReplyMessage] = useState("");
   const navigate = useNavigate();
 
-  const targetDate = new Date("2026-06-01T00:00:00");
+  const targetDate = new Date("2026-06-06T00:00:00");
 
   useEffect(() => {
     const timer = setInterval(() => {
@@ -117,8 +117,8 @@ const BirthdayCountdown = ({ isIOS }) => {
         </div>
 
         <p className="mt-6 text-lg text-pink-500 italic text-center">
-          "today and everyday, i'll always be ur #1 supporter, clap the loudest
-          for u, and praying wholeheartedly for ur well-being."
+         "Hari ini dan setiap hari, aku akan selalu menjadi pendukung #1mu, bertepuk tangan paling keras
+          untukmu, dan berdoa sepenuh hati untuk kesejahteraanmu."
         </p>
       </motion.div>
 
